@@ -1,0 +1,53 @@
+/* Roosweb:s Ajax Gästbok - Version 1.0 BETA
+   Copyright (c) Robert Roos - Roosweb.se 2007
+   Du får under inga omständigheter radera denna copyright text, vid brott mot detta kan polisanmälan
+   göras, kom ihåg du bryter då mot lagen!
+*/
+
+/* Helsideformatering */
+
+body {
+background-color: #fffed4;
+font-family: Verdana, Tahoma, Arial;
+font-size: 11px;
+}
+
+
+/* DIVFormateringar */
+
+#Huvudruta {
+width: 600px;
+margin: 0px auto;
+}
+
+
+/* LänkFormateringar */
+
+a {
+color: #000000;
+font-weight: bold;
+text-decoration: none;
+}
+
+a:hover {
+color: #000000;
+font-weight: bold;
+text-decoration: underline;
+}
+
+
+/* FormulärFormateringar */
+
+input { 
+padding: 3px;
+color: #666666;
+border: 1px solid;
+border-color: #cacaca;
+}
+
+textarea { 
+color: #666666;
+padding: 3px;
+border: 1px solid;
+border-color: #cacaca;
+}

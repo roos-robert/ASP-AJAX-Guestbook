@@ -7,7 +7,7 @@ A guestbook based on Classic ASP (VB) and JavaScript/AJAX. Do please note that t
 
 1. Download this repo as a .zip
 2. Unpack at your localhost / host, runs from both root and subdirectories "out of the box"
-3. Either use the AccessDB that comes with the script, or create a MySQL-db for example and update the PATH.
+3. Either use the AccessDB that comes with the script, or create a MySQL-db for example and update the PATH
 4. All done
 
 ### Bugs and issues

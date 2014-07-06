@@ -1,0 +1,43 @@
+<--*************************************************************************
+© Copyright Robert Roos, Roosweb.se 2007
+Du får använda detta script så länge alla copyright texter får stå
+kvar. Brott mot detta kommer polisanmälas. Scriptet får modifieras
+men ska trots det ha copyrighttexterna kvar så länge detta är ursprungs
+koden.
+*************************************************************************-->
+
+Roosweb:s Ajax Gästbok - Version 1.0 BETA
+
+Tack för att du laddade hem Roosweb:s ajax gästbok från någon av dessa siter:
+http://www.aspsidan.se
+http://www.aspkoll.se
+http://www.htmlsidan.se
+http://www.roosweb.se
+
+Har du inte laddat hem scriptet från någon av följande siter, var god rapportera
+detta till webmaster@roosweb.se.
+
+Gästboken är inte till för att se visuellt snygg ut, det är något ni får anpassa själva efter er egen site. Koden är välkommenterad och lätt att ta sig in i om ni vill modifiera
+design eller kod. Detta är en BETA version av version 1.0. Det betyder att vissa
+buggar kan finnas även om jag tror jag täckt det mesta. Hittar du en bugg så
+rapportera denna på forumet på http://www.roosweb.se eller via mail webmaster@roosweb.se
+
+Funktioner som ingår i denna versionen är:
+* 1 sida för allting, dvs sidan uppdateras aldrig helt, bara delvis med ajax
+* Svarsfunktion
+* Postning utan omladdning
+* Ta bort poster utan omladdning
+* Admin kan byta Anv och Lösen direkt online utan omladdning
+* Skydd mot SQL injections och XSS
+* Medlem måste fylla i begärda fält
+* Felmeddelande skrivs ut med hjälp av Ajax om problem uppstår
+* Användning av RegExp för att få smileys och ersättning av skadliga taggar.
+* Access 2003 databas, kommer separat version för MySQL till Version 1.1
+* Säkert mer jag glömt, utforska koden själv!
+
+Hoppas du gillar gästboken och att den får ett slut på alla omladdningar av hela sidor för att posta och radera och svara osv. Ris och Ros tas gärna emot på forumet på roosweb.se eller till webmaster@roosweb.se
+
+Med Vänliga Hälsningar:
+Robert Roos
+
+Roosweb.se 2006 - 2007
